@@ -16,7 +16,7 @@ For installation please see instructions on fetching from package managers for e
 
 To authenticate the Posthog SDKs you will need to provide a [Posthog API Token](https://posthog.com/docs/api#authentication). PostHog expects the API key to be included in all API requests to the server.
 
-`Authorization: Basic YOUR_ENCODED_API_KEY`
+`Authorization: YOUR_API_KEY`
 
 <!-- Start SDK Available Operations -->
 
